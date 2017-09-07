@@ -8,9 +8,7 @@ import org.testng.Reporter;
 import java.util.List;
 import java.util.Set;
 
-/**
- * Created by Lidziya_Latyshava on 9/7/2017.
- */
+
 public class MyWebDriverDecorator implements WebDriver {
 
     protected WebDriver driver;

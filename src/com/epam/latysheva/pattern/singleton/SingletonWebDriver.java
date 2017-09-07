@@ -4,7 +4,6 @@ package com.epam.latysheva.pattern.singleton;
 import com.epam.latysheva.businessObject.Constant;
 import com.epam.latysheva.pattern.decorator.MyWebDriverDecorator;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 

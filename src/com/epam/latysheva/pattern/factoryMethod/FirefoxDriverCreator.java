@@ -1,7 +1,6 @@
 package com.epam.latysheva.pattern.factoryMethod;
 
 
-import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 import com.epam.latysheva.businessObject.Constant;
